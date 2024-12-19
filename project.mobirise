@@ -50,37 +50,24 @@
     "imageResize": true,
     "gdpr": {
       "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
+      "colorLink": "#1f52af",
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#ffffff",
-      "colorButton": "",
-      "rejectColor": "",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacityOverlay": "0",
-      "bgOpacity": 100,
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "GOT IT",
-      "rejectText": "REJECT"
-    },
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "sitemapSwitcher": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "siteUrl": "https://purna.github.io/darlinghydro/",
     "sitemapSwitcherAuto": "on",
     "usedWebp": true,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128_1.png",
-    "mbrsiteDomain": "5pbfwkzqpk",
+    "mbrsiteDomain": "diqtdoeqkd",
     "google-analytics": "Hydropower engineering system architecture solutions for the modern world",
     "uniqCompNum": 73,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
-    "publishEditFolder": true
+    "publishEditFolder": true,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
