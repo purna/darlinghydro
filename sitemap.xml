@@ -6,12 +6,6 @@
 		<loc>https://purna.github.io/darlinghydro/links.html</loc>
 	</url>
 	<url>
-		<loc>https://purna.github.io/darlinghydro/presentations.html</loc>
-	</url>
-	<url>
-		<loc>https://purna.github.io/darlinghydro/about.html</loc>
-	</url>
-	<url>
 		<loc>https://purna.github.io/darlinghydro/contact.html</loc>
 	</url>
 	<url>
@@ -22,5 +16,8 @@
 	</url>
 	<url>
 		<loc>https://purna.github.io/darlinghydro/gallery.html</loc>
+	</url>
+	<url>
+		<loc>https://purna.github.io/darlinghydro/thinking.html</loc>
 	</url>
 </urlset>
