@@ -38,11 +38,11 @@ body {
 }
 .display-7 {
   font-family: 'Epilogue', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   line-height: 1.5;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 1.12rem;
-    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -3310,8 +3310,8 @@ a {
   background-color: #ffffff;
 }
 .cid-uzvjc5Mj5b {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
   background-color: #fafafa;
 }
 .cid-uzvjc5Mj5b .row {
@@ -3340,6 +3340,7 @@ a {
 .cid-uzvjc5Mj5b .mbr-text,
 .cid-uzvjc5Mj5b .mbr-section-btn {
   color: #353535;
+  text-align: left;
 }
 .cid-uzvjc5Mj5b .card-title {
   color: #18474e;
