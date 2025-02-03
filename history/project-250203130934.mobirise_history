@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "gallery.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -67,7 +67,9 @@
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "publishEditFolder": false,
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "publishType": "mbrsite",
+    "mbrsite": "mbrsite://%7B%22id%22%3A1155364%2C%22domain%22%3A%22daigyzyukz.mobirisesite.com%22%7D"
   },
   "pages": {
     "index.html": {
