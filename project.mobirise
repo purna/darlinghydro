@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "gallery.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -57,20 +57,17 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "sitemapSwitcher": true,
-    "siteUrl": "https://purna.github.io/darlinghydro/",
+    "siteUrl": "https://darlinghydro.co.uk/",
     "sitemapSwitcherAuto": "on",
     "usedWebp": true,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128_1.png",
-    "mbrsiteDomain": "opeynpwzbb",
+    "mbrsiteDomain": "tbnmqtm7um",
     "google-analytics": "",
     "uniqCompNum": 144,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "publishEditFolder": false,
-    "cookiesAlert": false,
-    "publishType": "local",
-    "mbrsite": "mbrsite://%7B%22id%22%3A1155364%2C%22domain%22%3A%22daigyzyukz.mobirisesite.com%22%7D",
-    "publishPath": "@PROJECT_PATH@"
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
